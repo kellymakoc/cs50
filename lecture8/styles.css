@@ -1,0 +1,28 @@
+body{
+    background-color:aqua;
+    font-family:Zapf Chancery, cursive;
+}
+.header{
+    color:darkblue;
+    padding: 40px;
+    text-align:center;
+}
+.button{
+    background-color:lightgrey;
+    border:none;
+    color:blue;
+    padding:15px 25px;
+    text-align:center;
+    font-size: 16px;
+    cursor:pointer;
+}
+.abme{
+    background-color:white;
+    padding: 40px;
+    text-align:center;
+}
+.interest{
+    background-color:white;
+    padding:60px;
+    text-align:center;
+}
